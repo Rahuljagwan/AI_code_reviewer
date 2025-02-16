@@ -28,7 +28,7 @@ An AI-powered code review system that analyzes, comments on, and suggests improv
    2) Installation:
          ...Clone the repository:
          
-         git clone https://github.com/yourusername/ai-code-reviewer.git
+         git clone https://github.com/Rahuljagwan/AI_code_reviewer.git
          cd ai-code-reviewer
           
          Set up Gemini api key in some folder:
